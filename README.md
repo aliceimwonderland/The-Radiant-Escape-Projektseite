@@ -1,6 +1,6 @@
 # Jump-and-Run-Projektseite
 
-
+<h2>Spielidee</h2>
 
 Wir haben uns für ein Jump and Run Game mit der Programmiersprache Python entschieden und haben dazu passend die Spielebibiliothek Pygame installiert. Unsere Überlegung bestand aus vielen verschiedenen Aspekten,die unserer Kreativität freien Lauf gewähren sollten.
 
