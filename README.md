@@ -13,3 +13,4 @@ Wir haben uns für ein Jump and Run Game mit der Programmiersprache Python entsc
 <h2>Phase 1</h2>
 In der ersten Phase unseres Projektes setzen wir die Grundlagen unseres Spiels. Dies sind der Hintergrund, der Hauptcharacter sowie ein erstes Hinderniss und die Steuerungen. Zu jedem Spiel dazugehörend außerdem einen Score.
 <h2>Phase 2</h2)
+Für die zweite Phase ist eine erweiterung der Hindernisse und Gegner geplant. Außerdem planen wir Level einzubauen. Diese werden wahrscheinlich eher kurz gehalten.
