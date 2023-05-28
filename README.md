@@ -1,10 +1,10 @@
 # Radiant Escape Projektseite
 
-<h2>Inhaltsverzeichnis</h2>
-1. Spielidee
-2. Phasen des Projektes
-  2.1 Phase 1
-  2.2 Phase 2
+<h2>Inhaltsverzeichnis</h2><br>
+1. Spielidee<br>
+2. Phasen des Projektes<br>
+  2.1 Phase 1<br>
+  2.2 Phase 2<br>
 
 <h2>Spielidee</h2>
 
