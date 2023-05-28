@@ -1,5 +1,11 @@
 # Radiant Escape Projektseite
 
+<h2>Inhaltsverzeichnis</h2>
+1. Spielidee
+2. Phasen des Projektes
+  2.1 Phase 1
+  2.2 Phase 2
+
 <h2>Spielidee</h2>
 
 Wir haben uns für ein Jump and Run Game mit der Programmiersprache Python entschieden und haben dazu passend die Spielebibiliothek Pygame installiert. Die Hauptidee hinter unserem Spiel ist eine nukleare Katastrophe, in der unser Held Giftfässern ausweichen muss. Dementsprechend ist unser Spieldesign von den Farben her eher Schlichtgehalten. Außerdem trägt unser Hauptcharacter einen Astronautenanzug, der ihn vor den Strahlen schützen soll. Unsere Überlegung bestand aus vielen verschiedenen Aspekten,die unserer Kreativität freien Lauf gewähren sollten. 
