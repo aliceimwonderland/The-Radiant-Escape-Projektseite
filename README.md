@@ -11,5 +11,5 @@ Wir haben uns für ein Jump and Run Game mit der Programmiersprache Python entsc
 <h3>6. Steuerung:</h3> Gesteuert wird unser Character mit der Spacetaste zum Springen. Gestartet wird das Spiel per Druck auf die a-Taste. Ein Neustart kann mir der d-Taste ausgeführt werden. 
 
 <h2>Phase 1</h2>
-
+In der ersten Phase unseres Projektes setzen wir die Grundlagen unseres Spiels. Dies sind der Hintergrund, der Hauptcharacter sowie ein erstes Hinderniss und die Steuerungen. Zu jedem Spiel dazugehörend außerdem einen Score.
 <h2>Phase 2</h2)
