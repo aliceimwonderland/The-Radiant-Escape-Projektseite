@@ -9,3 +9,7 @@ Wir haben uns für ein Jump and Run Game mit der Programmiersprache Python entsc
 <h3>3. Hintergrund:</h3> Ein schöner Hintergrund kann das Spiel interessanter machen. Hierbei muss man sich überlegen wo die Handlung unseres Spiels stattfindet. Sei es in einem Dschungel, am Strand oder in einer Stadt muss der Hintergrund dementsprechend angepasst sein. Außerdem spielen Tageszeit und Wetter mit in die Anpassungesmöglichkeiten des Hintergrunds.
 <h3>4. Punkte:</h3> Wir haben uns überlegt in userem Endlos-Runner ein Punktesystem festzulegen, je weiter man kommt, desto höher wird der Score. (Highscore wird gespeichert)
 <h3>5. Steuerung:</h3> Gesteuert wird unser Character mit der Spacetaste zum Springen. Gestartet wird das Spiel per Druck auf die a-Taste. Ein Neustart kann mir der d-Taste ausgeführt werden. 
+
+<h2>Phase 1</h2>
+
+<h2>Phase 2</h2)
