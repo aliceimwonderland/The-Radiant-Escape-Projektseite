@@ -215,6 +215,8 @@ clock.tick(60) #Schnelligkeit des Spiels
 - https://www.rapidtables.org/de/web/color/RGB_Color.html
 - https://www.python-forum.de/viewtopic.php?t=53648
 - https://runebook.dev/de/docs/pygame/ref/color
-- https://www.youtube.com/watch?v=AY9MnQ4x3zk&pp=ygUjdGhlIHVsdGltYXRlIGludHJvZHVjdGlvbiB0byBweWdhbWU%3D 
+- https://www.youtube.com/watch?v=AY9MnQ4x3zk&pp=ygUjdGhlIHVsdGltYXRlIGludHJvZHVjdGlvbiB0byBweWdhbWU%3D
+- https://realpython.com/pygame-a-primer/#setting-up-the-display
+- 
 
 <a href="#oben">Zurück zum Inhaltsverzeichnis</a><br>
