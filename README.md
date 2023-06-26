@@ -1,5 +1,7 @@
 # Radiant Escape Projektseite
 
+![image](https://github.com/aliceimwonderland/The-Radiant-Escape-Projektseite/assets/111736084/9c86897a-6b22-43de-b97c-f9903f1060e1)
+
 <h2 id="oben">Inhaltsverzeichnis</h2><br> 
 
 <a href="Idee">1. Spielidee</a><br>
