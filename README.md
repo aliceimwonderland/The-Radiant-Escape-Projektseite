@@ -209,9 +209,8 @@ clock.tick(60) #Schnelligkeit des Spiels
 
 <h2 id="Quellen">5. Quellen</h2>
 
-- http://schuelerlabor.informatik.rwth-aachen.de/content/lehrkraefte/java/Lehrerfortbildung-Greenfoot.pdf
+- Python für Dummies (buch zum allgemeinen Informieren über die Programmiersprache)
 - https://www.greenfoot.org/doc/joy-of-code
-- http://blog.schockwellenreiter.de/2021/04/2021042901.html
 - https://docs.python.org/3/tutorial/
 - https://www.rapidtables.org/de/web/color/RGB_Color.html
 - https://www.python-forum.de/viewtopic.php?t=53648
