@@ -60,7 +60,7 @@ surface_himmel.fill('cornsilk3')            #Farbe des Hintergrundes
 
 ```
 
-Da wir auch den Score unseres Spielers zählen wollen, nutzen wir die, in der Pygame Bibliothek enthaltene, Funktion der Zeitzählung. Damit diese am Ende kleiner ist wird durch 1000 geteilt. Die Schrift wird zur besseren Platzierung auf dem bildschirm zum Rechteck und erhält zudem die Farbe weiß (64,64,64). Hier nutzen wir zur Farbdefinierung das RKCY Modell.<br>
+Da wir auch den Score unseres Spielers zählen wollen, nutzen wir die, in der Pygame Bibliothek enthaltene, Funktion der Zeitzählung. Damit diese am Ende kleiner ist wird durch 1000 geteilt. Die Schrift wird zur besseren Platzierung auf dem bildschirm zum Rechteck und erhält zudem die Farbe weiß (64,64,64). Hier nutzen wir zur Farbdefinierung das RGB Modell.<br>
 Da wir später die Zeit sehen wollen, nutzen wir eine f Funktion, damit diese später gemeinsam mit der Schrift angezeigt werden kann.<br>
 Die Startzeit beträgt 3 Sekunden, es gibt also eine Art Countdown. Der Score beträgt am Anfang des Spiels natürlich 0.
 
@@ -99,7 +99,7 @@ character_rect = character.get_rect(topleft = (200,490)) #Erstellen eines Rechte
 character_gravity = 0 #Erstellung der Schwerkraft-Variable
 
 ```python
-Die Erstellung des Hindernises läuft ähnlich wie beim Character ab. Ein Bild wird heruntergeladen und seine Position als REchteck festgelegt. Außerdem erstellen wir eine Variable für seine Bewegung.
+Die Erstellung des Hindernises läuft ähnlich wie beim Character ab. Ein Bild wird heruntergeladen und seine Position als Rechteck festgelegt. Außerdem erstellen wir eine Variable für seine Bewegung.
 
 ```python
 
