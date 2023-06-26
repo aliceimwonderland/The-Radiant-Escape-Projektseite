@@ -222,4 +222,6 @@ clock.tick(60) #Schnelligkeit des Spiels
 - https://realpython.com/pygame-a-primer/#setting-up-the-display
 - https://www.webucator.com/article/python-color-constants-module/
 
+Alle Quellen wurden erfolgreich am 26.06.2023 um 18.26 abgerufen.
+
 <a href="#oben">Zurück zum Inhaltsverzeichnis</a><br>
