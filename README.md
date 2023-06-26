@@ -1,10 +1,12 @@
 # Radiant Escape Projektseite
 
 <h2>Inhaltsverzeichnis</h2><br> 
-<a href="#Idee">1. Spielidee</a><br>
-<a href="#Phasen">2. Phasen des Projektes</a><br>
- <a href="#Phase 1">2.1 Phase 1</a><br>
-  <a href="Phase 2">2.2 Phase 2</a><br>
+
+<id="#oben">1. Spielidee<br>
+<a href="#Wahl">2. Wahl der Software</a><br>
+<a href="#Code">3. Code</a><br>
+<a href="#Evaluation">4. Evaluation</a><br>
+<a href="#Quellen">Quellen</a><br>
 
 <h2>Spielidee</h2>
 
@@ -16,7 +18,5 @@ Wir haben uns für ein Jump and Run Game mit der Programmiersprache Python entsc
 <h3>5. Punkte:</h3> Wir haben uns überlegt in userem Endlos-Runner ein Punktesystem festzulegen, je weiter man kommt, desto höher wird der Score. (Highscore wird gespeichert)
 <h3>6. Steuerung:</h3> Gesteuert wird unser Character mit der Spacetaste zum Springen. Gestartet wird das Spiel per Druck auf die a-Taste. Ein Neustart kann mir der d-Taste ausgeführt werden. 
 
-<h2 id="Phase 1">Phase 1</h2>
-In der ersten Phase unseres Projektes setzen wir die Grundlagen unseres Spiels. Dies sind der Hintergrund, der Hauptcharacter sowie ein erstes Hinderniss und die Steuerungen. Zu jedem Spiel dazugehörend außerdem einen Score.
-<h2>Phase 2</h2>
-Für die zweite Phase ist eine erweiterung der Hindernisse und Gegner geplant. Außerdem planen wir Level einzubauen. Diese werden wahrscheinlich eher kurz gehalten.
+<h2 id="Wahl">2. Wahl der Software</h2>
+
