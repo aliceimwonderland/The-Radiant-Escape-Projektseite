@@ -198,10 +198,12 @@ Bei einer Kollision von Firgur und Hinderniss ist das Spiel nicht mehr aktiv. Es
         
 ```  
 Das Display wird nach dem Druchlaufen eines Loops immer wieder geupdated. Unser Spiel läuft mit 60 frames per seconds.
-    pygame.display.update()
-    clock.tick(60) #Schnelligkeit des Spiels
+```python
 
-  ```
+pygame.display.update()
+clock.tick(60) #Schnelligkeit des Spiels
+
+ ```
 
 <h2 id="Evaluation">4. Evaluation</h2>
 
