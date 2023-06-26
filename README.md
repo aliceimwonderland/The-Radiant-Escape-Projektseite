@@ -22,7 +22,8 @@ Wir haben uns für ein Jump and Run Game mit der Programmiersprache Python entsc
 
 <h2 id="Wahl">2. Wahl der Software</h2>
 
-Nach langem hin und her haben wir uns letztendlich für Python bzw. extra für Spiele Pygame und gegen GreenFoot entschieden. Wir fanden Pygame für die grafische Spielgestaltung besser, da wir so mehr Freiraum haben. Generell hat uns die Programmiersprache eher angesprochen, da sie logisch aufgebaut ist und man sich nach dem Einarbeiten gut zu recht findet und eigene Schlüsse ziehen kann. 
+Nach langem hin und her haben wir uns letztendlich für Python bzw. extra für Spiele Pygame und gegen GreenFoot entschieden. Wir fanden Pygame für die grafische Spielgestaltung besser, da wir so mehr Freiraum haben. Generell hat uns die Programmiersprache eher angesprochen, da sie logisch aufgebaut ist und man sich nach dem Einarbeiten gut zu recht findet und eigene Schlüsse ziehen kann.<br>
+Zudem nutzen wir Visual Studio Code als Programmieroberfläche. Dort kann man die benutzten Bilder hochladen und letztendlich dort auch sein Spiel spielen.
 
 <h2 id="Code">3. Code</h2>
 
