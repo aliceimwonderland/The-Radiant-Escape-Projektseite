@@ -217,6 +217,6 @@ clock.tick(60) #Schnelligkeit des Spiels
 - https://runebook.dev/de/docs/pygame/ref/color
 - https://www.youtube.com/watch?v=AY9MnQ4x3zk&pp=ygUjdGhlIHVsdGltYXRlIGludHJvZHVjdGlvbiB0byBweWdhbWU%3D
 - https://realpython.com/pygame-a-primer/#setting-up-the-display
-- 
+- https://www.webucator.com/article/python-color-constants-module/
 
 <a href="#oben">Zurück zum Inhaltsverzeichnis</a><br>
