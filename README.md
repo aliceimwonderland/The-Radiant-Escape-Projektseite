@@ -210,31 +210,27 @@ clock.tick(60) #Schnelligkeit des Spiels
 
 <h2 id="Evaluation">4. Evaluation</h2>
 
-Evaluation unseres Jump and Run-Spiels
+Die folgende Evaluierung bietet eine Bewertung unseres Jump-and-Run-Spiels, das mit dem Pygame-Framework entwickelt wurde. Diese Bewertung zielt darauf ab, die Stärken und verbesserungswürdigen Bereiche hervorzuheben, wobei die Funktionalität des Spiels, das Design und die allgemeine Benutzererfahrung berücksichtigt werden.
 
-Einleitung:
-Die folgende Evaluierung bietet eine Bewertung des Jump-and-Run-Spiels, das mit dem Pygame-Framework entwickelt wurde. Diese Bewertung zielt darauf ab, die Stärken und verbesserungswürdigen Bereiche des Kodierungsprogramms hervorzuheben, wobei die Funktionalität des Spiels, das Design und die allgemeine Benutzererfahrung berücksichtigt werden.
-
-1. Funktionsfähigkeit:
+<h3>1. Funktionsfähigkeit:</h3>
 Das Spiel weist eine solide Funktionalität auf und stellt die grundlegenden Aspekte eines Jump-and-Run-Spiels erfolgreich dar. Die Bewegung der Spielfigur, die Sprungmechanik, die Kollisionserkennung und der Levelverlauf sind gut implementiert. Das Spiel reagiert präzise auf Benutzereingaben und bietet ein fesselndes und fesselndes Erlebnis. 
 
-2. Codestruktur und Organisation:
+<h3>2. Codestruktur und Organisation:</h3>
 Die Codestruktur und -organisation sind wesentliche Faktoren für die Wartbarkeit und Skalierbarkeit. Es ist von entscheidender Bedeutung, dass der Code modular und leicht verständlich ist und bewährten Verfahren folgt. In dieser Hinsicht könnte das Programm von einem weiteren Refactoring profitieren, um die Lesbarkeit des Codes zu verbessern, Redundanzen zu reduzieren und die Erweiterbarkeit zu fördern.
 
-3. Grafik und visuelle Gestaltung:
+<h3>3. Grafik und visuelle Gestaltung:</h3>
 Die visuelle Gestaltung des Spiels, einschließlich der Grafiken und der Elemente der Benutzeroberfläche, trägt wesentlich zum Gesamterlebnis des Benutzers bei. Die in dem Jump-and-Run-Spiel verwendeten Grafiken sind visuell ansprechend und passen zum Thema des Spiels. Die Charakteranimationen, die Hintergrundelemente und das Leveldesign zeugen von Kreativität und Liebe zum Detail. Dennoch können weitere Verbesserungen vorgenommen werden, indem die visuelle Konsistenz zwischen den verschiedenen Spielelementen verfeinert und die Grafiken insgesamt aufpoliert werden.
 
-4. Spielmechanik: 
+<h3>4. Spielmechanik: </h3>
 Die Spielmechanik ist gut implementiert und bietet ein angenehmes Gameplay. Die Sprungmechanik fühlt sich reaktionsschnell und intuitiv an und trägt zu einem befriedigenden Spielerlebnis bei. 
 
-5. Benutzererfahrung und Benutzeroberfläche:
-Die Benutzeroberfläche (UI) sollte intuitiv und visuell ansprechend sein und dem Spieler ein klares Feedback geben. Stellen Sie sicher, dass alle wichtigen Informationen, wie Spielstand, Leben und Level-Fortschritt, leicht sichtbar und verständlich sind. Darüber hinaus sollten Menüs, Einstellungsoptionen und eine Pausenfunktion integriert werden, um ein umfassendes und benutzerfreundliches Erlebnis zu bieten.
+<h3>5. Benutzererfahrung und Benutzeroberfläche:</h3>
+Die Benutzeroberfläche (UI) sollte intuitiv und visuell ansprechend sein und dem Spieler ein klares Feedback geben. Der eigene Spielstand ist gut erkennbar. Das Endmenü ist ebenfalls leicht verständlich.
 
-6. Fehlerbehandlung und Tests:
-Ein effektives Kodierungsprogramm sollte robuste Mechanismen zur Fehlerbehandlung und gründliche Testverfahren beinhalten. Stellen Sie sicher, dass das Spiel potenzielle Sonderfälle berücksichtigt, z. B. die Behandlung unerwarteter Benutzereingaben oder die effektive Erkennung und Behandlung von Kollisionsfehlern. Die Implementierung von Einheitstests und die Durchführung systematischer Tests können helfen, potenzielle Fehler oder Probleme zu erkennen und zu beheben.
-
-Schlussfolgerung:
+<h3>Fazit:</h3>
 Insgesamt zeigt das mit Pygame entwickelte Jump-and-Run-Spiel ein großes Potenzial und bietet ein unterhaltsames Spielerlebnis. Verbesserungen bei der Organisation des Codes, der visuellen Konsistenz, der Audio-Implementierung und der Gestaltung der Benutzeroberfläche können die Qualität des Spiels weiter steigern. Wenn diese Verbesserungsbereiche angegangen werden und auf den vorhandenen Stärken aufgebaut wird, kann sich das Programm zu einem noch beeindruckenderen und ansprechenderen Spiel entwickeln.
+
+
 <h2 id="Quellen">5. Quellen</h2>
 
 - Python für Dummies (buch zum allgemeinen Informieren über die Programmiersprache)
