@@ -28,4 +28,12 @@ Nach langem hin und her haben wir uns letztendlich für Python bzw. extra für S
 
 <h2 id="Quellen">5. Quellen</h2>
 
+- http://schuelerlabor.informatik.rwth-aachen.de/content/lehrkraefte/java/Lehrerfortbildung-Greenfoot.pdf
+- https://www.greenfoot.org/doc/joy-of-code
+- http://blog.schockwellenreiter.de/2021/04/2021042901.html
+- https://docs.python.org/3/tutorial/
+- https://www.rapidtables.org/de/web/color/RGB_Color.html
+- https://www.python-forum.de/viewtopic.php?t=53648
+- https://runebook.dev/de/docs/pygame/ref/color
+  
 <a href="#oben">Zurück zum Inhaltsverzeichnis</a><br>
