@@ -228,8 +228,7 @@ Die Spielmechanik ist gut implementiert und bietet ein angenehmes Gameplay. Die 
 Die Benutzeroberfläche (UI) sollte intuitiv und visuell ansprechend sein und dem Spieler ein klares Feedback geben. Der eigene Spielstand ist gut erkennbar. Das Endmenü ist ebenfalls leicht verständlich.
 
 <h3>Fazit:</h3>
-Insgesamt zeigt das mit Pygame entwickelte Jump-and-Run-Spiel ein großes Potenzial und bietet ein unterhaltsames Spielerlebnis. Verbesserungen bei der Organisation des Codes, der visuellen Konsistenz, der Audio-Implementierung und der Gestaltung der Benutzeroberfläche können die Qualität des Spiels weiter steigern. Wenn diese Verbesserungsbereiche angegangen werden und auf den vorhandenen Stärken aufgebaut wird, kann sich das Programm zu einem noch beeindruckenderen und ansprechenderen Spiel entwickeln.
-
+Insgesamt zeigt das mit Pygame entwickelte Jump-and-Run-Spiel ein großes Potenzial und bietet ein unterhaltsames Spielerlebnis. Verbesserungen bei der Organisation des Codes, der visuellen Konsistenz, der Audio-Implementierung und der Gestaltung der Benutzeroberfläche können die Qualität des Spiels weiter steigern. Das Programm implementiert erfolgreich alle nötigen Kernfunktionen. Während des ganzen Entwicklungsprozess haben wir dazugelernt. Künftige Projekte können von uns nun weitaus besser geführt werden. Saubere Programmierarbeit und effizientes Arbeiten konnten wir beim Arbeiten an unserem Projekt steigern.
 
 <h2 id="Quellen">5. Quellen</h2>
 
