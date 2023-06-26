@@ -8,7 +8,7 @@
 <a href="#Wahl">2. Wahl der Software</a><br>
 <a href="#Code">3. Code</a><br>
 <a href="#Evaluation">4. Evaluation</a><br>
-<a href="#Quellen">5. Quellen</a><br>
+<a href="#Quellen">5. Quellen und Eigenständigkeitserklärung</a><br>
 
 <h2>Spielidee</h2>
 
@@ -223,5 +223,7 @@ clock.tick(60) #Schnelligkeit des Spiels
 - https://www.webucator.com/article/python-color-constants-module/
 
 Alle Quellen wurden erfolgreich am 26.06.2023 um 18.26 abgerufen.
+
+Hiermit bestätigen wir, Arvid Böse und Alicia Gärtner , dass wir die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Hilfsmittel benutzt haben. Die Stellen der Arbeit, die dem Wortlaut oder dem Sinn nach anderen Werken (dazu zählen auch Internetquellen) entnommen sind, wurden unter Angabe der Quelle kenntlich gemacht.
 
 <a href="#oben">Zurück zum Inhaltsverzeichnis</a><br>
