@@ -146,6 +146,10 @@ Sollte man mit dem Hinderniss kollidieren wird der Endbildschirm angeziegt, mit 
             
 ```
 
+An dieser Stelle wird festgelget, was erscheint, sollte das Spiel laufen. In unserem Fall ist das der zuvor festgelegte Hintergrund, die Figur und das Hidnernis.
+
+```python
+
     if game_active:                  
         screen.blit(colour_surface,(0,580)) #Boden wird auf dem Display angezeigt
         screen.blit(surface_himmel,(0,0)) #Himmel wird auf dem Display angezeigt
@@ -153,18 +157,33 @@ Sollte man mit dem Hinderniss kollidieren wird der Endbildschirm angeziegt, mit 
         screen.blit(character,character_rect) #Character wird auf dem Display angezeigt
 
         score = display_score() #Verknüpfung vom Score mit der Anzeige
+        
+```
+
+Da wir einen Loop haben wird die Schwerkraft bei jedem Durchlauf um einen erhöht. Dies führt dazu, dass unsere Figur nach einem Sprung nach unten fällt. Der Character bewegt sich also auf der y-Achse, daher kommt anschließend noch ein".y" daran. Es wird die Figur nun mit der Schwerkraft und das Hindernis mit der Bewegung nach links verknüpt. Das Hindernris bewegt sich somit auf der x-Achse, daher wird ein ".x" rangehängt.
+
+```python
 
         #Springbewegung der Figur
         character_gravity += 1 #die Figur fällt
         character_rect.y += character_gravity #Verbindung der Figur mit der Schwerkraft
         hindernis_rect.x += hindernis_left #Verbindung des Hindernises  mit der Bewegung nach links
 
+```
        
+Diese if-Statements dienen zur Begrenzung der Bewegung der Figuren.
+
+```python
 
         if character_rect.bottom >= 580: character_rect.bottom = 580 #ein Boden wird erstellt, damit die Figur nicht ins Nichts fällt
         if character_rect.top <= 300: character_rect.top = 450 #Figur springt nicht über den Bildschirmrand hinaus
         if hindernis_rect.left <= -20: hindernis_rect.left = 920 #Hindernis wird immer wieder neu eingesetzt
-    
+
+```
+ 
+Bei einer Kollision von Firgur und Hinderniss ist das Spiel nicht mehr aktiv. Es wird nun der Endbildschirm mit dem erzielten Scoe, einer nachricht und der Anleitung zum Neustart angezeigt. Diese Nachrichten erhlaten erneut individuelle Farben.
+
+```python
 
         #Kollision
         if character_rect.colliderect(hindernis_rect): #bei einer Kollison von Figur und Hindernis wird die Variabel game_active zu False
@@ -173,15 +192,17 @@ Sollte man mit dem Hinderniss kollidieren wird der Endbildschirm angeziegt, mit 
         screen.fill((253,24,62)) #der Bildschirm füllt sich in der vorgegebenen Farbe
         screen.blit(score_end,end_rect) 
         score_final = font.render(f'Score: {score}',False,(245,177,217)) #der erreichte Score wird angezeigt
-        final_rect = score_final.get_rect(center = (425,350))    #rstellung eines Rechtecks für den finalen Score 
+        final_rect = score_final.get_rect(center = (425,350))    #Erstellung eines Rechtecks für den finalen Score 
         screen.blit(score_final,final_rect)
         screen.blit(end_message,message_rect) #eine fianle Nachricht wird angezeigt, die Anweisungen zum Neustart des Spiels gibt
-  
-
+        
+```  
+Das Display wird nach dem Druchlaufen eines Loops immer wieder geupdated. Unser Spiel läuft mit 60 frames per seconds.
     pygame.display.update()
-    clock.tick(60)
+    clock.tick(60) #Schnelligkeit des Spiels
 
   ```
+
 <h2 id="Evaluation">4. Evaluation</h2>
 
 <h2 id="Quellen">5. Quellen</h2>
