@@ -1,12 +1,12 @@
 # Radiant Escape Projektseite
 
-<h2>Inhaltsverzeichnis</h2><br> 
+<h2 id="oben">Inhaltsverzeichnis</h2><br> 
 
-<id="#oben">1. Spielidee<br>
+<a href="Idee">1. Spielidee</a><br>
 <a href="#Wahl">2. Wahl der Software</a><br>
 <a href="#Code">3. Code</a><br>
 <a href="#Evaluation">4. Evaluation</a><br>
-<a href="#Quellen">Quellen</a><br>
+<a href="#Quellen">5. Quellen</a><br>
 
 <h2>Spielidee</h2>
 
@@ -20,3 +20,10 @@ Wir haben uns für ein Jump and Run Game mit der Programmiersprache Python entsc
 
 <h2 id="Wahl">2. Wahl der Software</h2>
 
+<h2 id="Code">3. Code</h2>
+
+<h2 id="Evaluation">4. Evaluation</h2>
+
+<h2 id="Quellen">5. Quellen</h2>
+
+<a href="#oben">Zurück zum Inhaltsverzeichnis</a><br>
